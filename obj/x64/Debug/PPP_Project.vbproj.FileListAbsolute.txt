@@ -1,0 +1,17 @@
+C:\Users\raoua\source\repos\PPP_Project\bin\x64\Debug\PPP.accdb
+C:\Users\raoua\source\repos\PPP_Project\bin\x64\Debug\PPP_Project.exe.config
+C:\Users\raoua\source\repos\PPP_Project\bin\x64\Debug\PPP_Project.exe
+C:\Users\raoua\source\repos\PPP_Project\bin\x64\Debug\PPP_Project.pdb
+C:\Users\raoua\source\repos\PPP_Project\bin\x64\Debug\PPP_Project.xml
+C:\Users\raoua\source\repos\PPP_Project\obj\x64\Debug\PPP_Project.vbproj.AssemblyReference.cache
+C:\Users\raoua\source\repos\PPP_Project\obj\x64\Debug\PPP_Project.vbproj.SuggestedBindingRedirects.cache
+C:\Users\raoua\source\repos\PPP_Project\obj\x64\Debug\PPP_Project.ListeStagieres.resources
+C:\Users\raoua\source\repos\PPP_Project\obj\x64\Debug\PPP_Project.Resources.resources
+C:\Users\raoua\source\repos\PPP_Project\obj\x64\Debug\PPP_Project.vbproj.GenerateResource.cache
+C:\Users\raoua\source\repos\PPP_Project\obj\x64\Debug\PPP_Project.vbproj.CoreCompileInputs.cache
+C:\Users\raoua\source\repos\PPP_Project\obj\x64\Debug\PPP_Project.exe
+C:\Users\raoua\source\repos\PPP_Project\obj\x64\Debug\PPP_Project.xml
+C:\Users\raoua\source\repos\PPP_Project\obj\x64\Debug\PPP_Project.pdb
+C:\Users\raoua\source\repos\PPP_Project\obj\x64\Debug\PPP_Project.Ajout_Stagiere.resources
+C:\Users\raoua\source\repos\PPP_Project\obj\x64\Debug\PPP_Project.ModifStagiere.resources
+C:\Users\raoua\source\repos\PPP_Project\obj\x64\Debug\PPP_Project.SignIn.resources

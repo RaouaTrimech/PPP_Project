@@ -1,0 +1,14 @@
+C:\Users\raoua\source\repos\PPP_Project\obj\Release\PPP_Project.vbproj.AssemblyReference.cache
+C:\Users\raoua\source\repos\PPP_Project\obj\Release\PPP_Project.vbproj.SuggestedBindingRedirects.cache
+C:\Users\raoua\source\repos\PPP_Project\obj\Release\PPP_Project.ListeStagieres.resources
+C:\Users\raoua\source\repos\PPP_Project\obj\Release\PPP_Project.Resources.resources
+C:\Users\raoua\source\repos\PPP_Project\obj\Release\PPP_Project.vbproj.GenerateResource.cache
+C:\Users\raoua\source\repos\PPP_Project\obj\Release\PPP_Project.vbproj.CoreCompileInputs.cache
+C:\Users\raoua\source\repos\PPP_Project\bin\Release\PPP.accdb
+C:\Users\raoua\source\repos\PPP_Project\bin\Release\PPP_Project.exe.config
+C:\Users\raoua\source\repos\PPP_Project\bin\Release\PPP_Project.exe
+C:\Users\raoua\source\repos\PPP_Project\bin\Release\PPP_Project.pdb
+C:\Users\raoua\source\repos\PPP_Project\bin\Release\PPP_Project.xml
+C:\Users\raoua\source\repos\PPP_Project\obj\Release\PPP_Project.exe
+C:\Users\raoua\source\repos\PPP_Project\obj\Release\PPP_Project.xml
+C:\Users\raoua\source\repos\PPP_Project\obj\Release\PPP_Project.pdb
